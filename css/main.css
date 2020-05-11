@@ -1,0 +1,185 @@
+.navbar{
+
+    background: linear-gradient(rgba(0,0,0.3),rgba(0, 0, 1, 0.123));
+    color: 	#1E90FF;
+    background-color: transparent;
+    border-color: #E7E7E7;
+    border-radius: 0px;
+    margin-bottom: 10px;
+}
+/*hovering over an item in the navigation bar*/
+.navbar-nav li a:hover {
+    background-color:#071344;
+    border-radius:2px;
+ }
+
+ .carousel-content {
+    position: absolute;
+    top: 380px;
+    left: 220px;
+    z-index: 20;
+    color: white;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.74);
+  }
+.btt_search{
+    background-color: #1E90FF;
+    color: white;
+    border-color: 	#1E90FF;
+}
+
+.btt_search:hover{
+    background-color: #071344;
+    border-color: #071344;
+}
+
+.form-sigin #btt_login{
+    background-color: #483D8B;
+    border-color: #483D8B;
+}
+ 
+#btt_login:hover{
+    background-color: #071344;
+    border-color: #071344;
+}
+
+.social-media{
+    color: #1E90FF;
+}
+
+
+.footer-copyright{
+    color: #1E90FF;
+    font-weight: bolder;
+}
+
+.WebGroup{
+    color: #1E90FF;
+}
+.WebGroup:hover{
+    color: #483D8B;
+    text-decoration: none;
+}
+.btn-floating{
+    color: #1E90FF;
+    font-weight: bold;
+}
+
+.list-unstyled{
+    color: #1E90FF;
+    font-weight: bold;
+}
+
+#customCheck{
+    margin-right: 20px;
+}
+
+.carouselExampleIndicators{
+border-color: black;
+}
+
+.bmw-img{
+    width: 1440px;
+    height: 775px;
+}
+
+.mercedes-img{
+    width: 1440px;
+    height: 775px;
+}
+
+.audi-img{
+    width: 1440px;
+    height: 775px;  
+}
+
+.jumbo{
+    color: white;
+    border: black;
+    text-shadow: 2px 0 0;
+    border-color: black;
+    font-weight: bold;
+    height:200px ;
+    width: 400px;
+    margin-top: 50px;
+    
+}
+
+
+
+.NBR:hover{
+    text-decoration: none;
+    
+}
+
+.body-class{
+    background-image: url("../img/Tesla-S3X-Semi-fleet-press-photo-e1548882286108.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.body-class2{
+    background-image: url("../img/Tesla-S3X-Semi-fleet-press-photo-e1548882286108.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.body-class3{
+    background-image: url("../img/Tesla-S3X-Semi-fleet-press-photo-e1548882286108.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.page-footer{
+    background-color: white;
+}
+
+.cont-1{
+    margin-bottom: 20px;
+}
+
+#bd{
+    padding-top: 15px;
+    background: linear-gradient(rgba(0,0,0.3),rgba(0, 0, 1, 0.123));
+}
+
+.card-img{
+width: 40px;
+height: 50px;
+
+}
+
+.card-body{
+
+    position: absolute;
+  bottom: 0;
+  left: 0;
+  
+}
+
+.btn{
+
+    background-color: #1E90FF;
+    color: black;
+   
+     
+    border: none;
+}
+
+.btn:hover{
+    background-color:#483D8B ;
+}
+
+.card{
+
+    width: 300px;
+    display: inline-block;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+
+.card-img-top{
+    height: 250px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;padding-bottom: 20px;
+}
